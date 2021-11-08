@@ -37,9 +37,10 @@ Inicio
 
             senao
 
+ 
                   se (parcelas > 12) entao
 
-                  escreval("Não parcelamos mais que 12x")
+                  escreval("Não parcelamos MAIS que 12x")
 
                fimse
 
